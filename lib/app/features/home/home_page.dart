@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:kontrola_serwisowa/app/features/home/add_wydatki_page_content/add_wydatki_page_content.dart';
 import 'package:kontrola_serwisowa/app/features/home/contact_page_content/contact_page_content.dart';
 import 'package:kontrola_serwisowa/app/features/home/my_account_page_content/my_account_page_content.dart';
+import 'package:kontrola_serwisowa/app/features/home/wydatki_page_content/wydatki_page_content.dart';
 
 
 class HomePage extends StatefulWidget {
