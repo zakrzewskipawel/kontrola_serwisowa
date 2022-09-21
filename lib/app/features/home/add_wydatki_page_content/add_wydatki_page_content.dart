@@ -15,7 +15,7 @@ class AddWydatkiPageContent extends StatefulWidget {
 
 class _AddWydatkiPageContentState extends State<AddWydatkiPageContent> {
   var data = '';
-  var course = '';
+  var mileage = '';
   var name = '';
   var cost = '';
 
@@ -38,7 +38,7 @@ class _AddWydatkiPageContentState extends State<AddWydatkiPageContent> {
               hintText: 'Podaj przebieg',
             ),
             onChanged: (newValue) {
-              course = newValue;
+              mileage = newValue;
             },
           ),
           TextField(
@@ -61,7 +61,7 @@ class _AddWydatkiPageContentState extends State<AddWydatkiPageContent> {
             onPressed: () {
               FirebaseFirestore.instance.collection('wydatki_samochod').add({
                 'data': data,
-                'course': course,
+                'mileage': mileage,
                 'name': name,
                 'cost': cost,
               });

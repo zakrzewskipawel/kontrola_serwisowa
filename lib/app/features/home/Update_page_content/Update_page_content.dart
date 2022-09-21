@@ -16,7 +16,7 @@ class UpdatePageContent extends StatefulWidget {
 
 TextEditingController nameConntroller = TextEditingController();
 TextEditingController dataConntroller = TextEditingController();
-TextEditingController courseConntroller = TextEditingController();
+TextEditingController mileageConntroller = TextEditingController();
 TextEditingController costConntroller = TextEditingController();
 
 _buildTextFiled(TextEditingController controller, String labelText) {
@@ -38,7 +38,7 @@ _buildTextFiled(TextEditingController controller, String labelText) {
 
 class _UpdatePageContentState extends State<UpdatePageContent> {
   var data = '';
-  var course = '';
+  var mileage = '';
   var name = '';
   var cost = '';
 
@@ -56,7 +56,7 @@ class _UpdatePageContentState extends State<UpdatePageContent> {
             for (final document in state.documentes) ...[
               _buildTextFiled(dataConntroller, 'Data'),
               const SizedBox(height: 10),
-              _buildTextFiled(courseConntroller, 'Podaj przebieg'),
+              _buildTextFiled(mileageConntroller, 'Podaj przebieg'),
               const SizedBox(height: 10),
               _buildTextFiled(nameConntroller, 'Tytuł wydatku'),
               const SizedBox(height: 10),
@@ -69,7 +69,7 @@ class _UpdatePageContentState extends State<UpdatePageContent> {
                       .doc(document.id)
                       .update({
                     'data': dataConntroller.text,
-                    'course': courseConntroller.text,
+                    'mileage': mileageConntroller.text,
                     'name': nameConntroller.text,
                     'cost': costConntroller.text,
                   }).whenComplete(() => Navigator.pop(context));

@@ -60,7 +60,7 @@ class WydatkiPageContent extends StatelessWidget {
                               children: [
                                 Text('Aktualny przebieg = ',
                                     style: GoogleFonts.poppins(fontSize: 15)),
-                                Text(document['course'].toString(),
+                                Text(document['mileage'].toString(),
                                     style: GoogleFonts.poppins(fontSize: 15)),
                               ],
                             ),
@@ -102,7 +102,7 @@ class WydatkiPageContent extends StatelessWidget {
                                 dataConntroller.text = document['data'];
                                 nameConntroller.text = document['name'];
                                 costConntroller.text = document['cost'];
-                                courseConntroller.text = document['course'];
+                                mileageConntroller.text = document['mileage'];
                                 showDialog(
                                   context: context,
                                   builder: (context) =>
