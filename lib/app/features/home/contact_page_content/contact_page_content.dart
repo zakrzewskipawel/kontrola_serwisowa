@@ -4,8 +4,7 @@ import 'package:url_launcher/url_launcher.dart';
 
 final Uri _url = Uri.parse('https://www.facebook.com/');
 final Uri _urll = Uri.parse('tel:+1-555-010-999');
-final Uri _urlll =
-    Uri.parse('mailto:smith@example.org?subject=News&body=New%20plugin');
+final Uri _urlll = Uri.parse('mailto:p.zakrzewski.szofer@gmail.com?subject=News&body=New%20plugin');
 
 class ContactPageContent extends StatelessWidget {
   const ContactPageContent({

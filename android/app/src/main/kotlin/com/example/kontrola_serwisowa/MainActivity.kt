@@ -1,4 +1,4 @@
-package com.example.kontrola_serwisowa
+package com.pawelzakrzewski.kontrola_serwisowa
 
 import io.flutter.embedding.android.FlutterActivity
 

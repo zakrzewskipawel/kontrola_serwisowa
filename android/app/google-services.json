@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "607176819848",
+    "project_id": "wydatki-samochod",
+    "storage_bucket": "wydatki-samochod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607176819848:android:431973207b4315050d8b3d",
+        "android_client_info": {
+          "package_name": "com.pawelzakrzewski.kontrola_serwisowa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607176819848-gdv1jijked3qvi0h4o5riirc0i75d5bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNOymWMhLau0AvaCbx0nvb58Uf2rPhOrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607176819848-gdv1jijked3qvi0h4o5riirc0i75d5bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607176819848:android:52808580e3d162660d8b3d",
+        "android_client_info": {
+          "package_name": "com.pawelzakrzewski.wydatki_na_samochod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607176819848-gdv1jijked3qvi0h4o5riirc0i75d5bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNOymWMhLau0AvaCbx0nvb58Uf2rPhOrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607176819848-gdv1jijked3qvi0h4o5riirc0i75d5bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607176819848:android:fa9763893404175d0d8b3d",
+        "android_client_info": {
+          "package_name": "com.pawelzakrzewski.kontrola_serwisowa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607176819848-gdv1jijked3qvi0h4o5riirc0i75d5bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNOymWMhLau0AvaCbx0nvb58Uf2rPhOrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607176819848-gdv1jijked3qvi0h4o5riirc0i75d5bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

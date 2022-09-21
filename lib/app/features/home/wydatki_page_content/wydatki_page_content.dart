@@ -5,7 +5,6 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:kontrola_serwisowa/app/features/home/Update_page_content/Update_page_content.dart';
 import 'package:kontrola_serwisowa/app/features/home/wydatki_page_content/cubit/wydatki_page_content_cubit.dart';
 
-
 class WydatkiPageContent extends StatelessWidget {
   const WydatkiPageContent({
     Key? key,
