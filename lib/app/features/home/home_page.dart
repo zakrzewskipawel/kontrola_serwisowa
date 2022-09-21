@@ -26,7 +26,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       body: Builder(builder: (context) {
         if (currentIndex == 0) {
-          return const WydatkiPageContent();
+          return  WydatkiPageContent();
         }
         if (currentIndex == 1) {
           return AddWydatkiPageContent(
