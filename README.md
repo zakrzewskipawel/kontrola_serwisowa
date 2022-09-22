@@ -5,23 +5,20 @@
 <p>
 <a href="https://ibb.co/3cSQFtq"><img src="https://i.ibb.co/3cSQFtq/auto.jpg" alt="auto" border="0"></a>
 </p>
-
-<br>
-
-<br>
-
 </h1>
 
 
 ## Project Overview 🎉
-
+Service Controls. When a user first enters the site, they will see a sing in / sign up form. I used Firebase for authentication. Once logged in, you can add and search for recent entries related to car service. You can add: date, name, cost, mileage.
 ## Tech/framework used 🔧
-
-| Tech                                                    | Description                              |
-| ------------------------------------------------------- | ---------------------------------------- |
-| [X](X)                           | XYZ   |
-| [X](X)                           | XYZ   |
-| [X](X)                           | XYZ   |
+- Flutter
+- Dart
+- Hooks
+- Firebase
+- Rest api
+- Git
+- Block/Cubit
+- Get_it
 
 
 ## Screenshots 📺
@@ -39,19 +36,22 @@
 </p>
 
 ## Code Example/Issues 🔍
-
+If you have any issues, please let me know in the issues section or directly to p.zakrzewski.szofer@gmail.com
 
 ## Installation 💾
+```bash
+gh repo clone zakrzewskipawel/kontrola_serwisowa
+```
 
-## Available scripts
+## Sigin in  ❗️
 
-| Command                   | Description                   |     |
-| ------------------------- | ----------------------------- | --- |
-| `npm run start`           | Open local server             |     |
-| `npm run build`           | Create optimized build        |     |
-| `npm run test`            | Run tests                     |     |
+-   Email:  [admintest@gmail.com](mailto:admintest@gmail.com)
+-   Password: admintest1
 
 
 ## Live 📍
 
 ## License 🔱
+Under license (MIT, Apache etc)
+
+MIT © [Paweł Zakrzewski-Szofer](https://github.com/zakrzewskipawel/)
