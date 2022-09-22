@@ -54,9 +54,8 @@ gh repo clone zakrzewskipawel/kontrola_serwisowa
 
 
 ## Live 📍
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7nwS_y0w8dg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+https://user-images.githubusercontent.com/106838222/191708420-ec94b98e-b8e1-4926-a571-04f0b28baf60.mp4
+
 ## License 🔱
 Under license (MIT, Apache etc)
 
