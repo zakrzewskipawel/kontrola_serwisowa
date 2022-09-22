@@ -2,8 +2,7 @@
 <h1 align="center">
 🎉🎉Service control 🎉🎉
 <br>
-
-<p align="center">
+<p>
 <img src="https://i.im.ge/2022/09/22/1UPyir.auto.jpg"  alt="Logo">
 </p>
 
@@ -13,14 +12,6 @@
 
 </h1>
 
-<h4 align="center">Project title</h4>
-
-<p align="center">
-  <a >
-    <img src=""
-         alt="Screenshot">
-  </a>
-</p>
 
 ## Project Overview 🎉
 
