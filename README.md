@@ -9,7 +9,7 @@
 
 
 ## Project Overview 🎉
-Service Control. When a user first enters the site, they will see a sing in / sign up form. I used Firebase for authentication. Once logged in, the user can add and search for recent entries related to the car service. You can add, edit or delete an entry.
+Service Control. When a user first enters the site, they will see a sing in / sign up form. I used Firebase for authentication. Once logged in, the user can add and search for recent entries related to the car service. You can edit or delete an entry.
 ## Tech/framework used 🔧
 - Flutter
 - Dart
