@@ -1,3 +1,4 @@
+
 <h1 align="center">
 🎉🎉Service control 🎉🎉
 <br>
@@ -5,6 +6,7 @@
 <a href="https://ibb.co/3cSQFtq"><img src="https://i.ibb.co/3cSQFtq/auto.jpg" alt="auto" border="0"></a>
 </p>
 </h1>
+
 
 ## Project Overview 🎉
 Service Control. When a user first enters the site, they will see a sing in / sign up form. I used Firebase for authentication. Once logged in, the user can add and search for recent entries related to the car service. You can add, edit or delete an entry.
@@ -32,7 +34,7 @@ Service Control. When a user first enters the site, they will see a sing in / si
 </p>
 <p align="center">
     <<a href="https://ibb.co/60Byz6J"><img src="https://i.ibb.co/tpXHgyP/edycja.jpg" alt="edycja" border="0"></a>
-</p>
+ </p>
 <p align="center">
     <a href="https://ibb.co/r65vq1b"><img src="https://i.ibb.co/3NSkVLf/kontakt.png" alt="kontakt" border="0"></a>
 </p>
