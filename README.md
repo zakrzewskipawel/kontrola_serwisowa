@@ -24,19 +24,11 @@ Service Control. When a user first enters the site, they will see a sing in / si
 ## Screenshots 📺
 
 <p align="center">
-    <a href="https://ibb.co/NNXV7jp"><img src="https://i.ibb.co/T0Zvr8R/logowanie.jpg" alt="logowanie" border="0"></a>
-</p>
-<p align="center">
-   <a href="https://ibb.co/L5s7zfj"><img src="https://i.ibb.co/Hd98DQw/wprowadzanie-dannych.png" alt="wprowadzanie-dannych" border="0"></a>
-</p>
-<p align="center">
-    <a href="https://ibb.co/JKFRyQZ"><img src="https://i.ibb.co/g3FMPVY/ekran-g-owny.png" alt="ekran-g-owny" border="0"></a>
-</p>
-<p align="center">
-    <<a href="https://ibb.co/60Byz6J"><img src="https://i.ibb.co/tpXHgyP/edycja.jpg" alt="edycja" border="0"></a>
- </p>
-<p align="center">
-    <a href="https://ibb.co/r65vq1b"><img src="https://i.ibb.co/3NSkVLf/kontakt.png" alt="kontakt" border="0"></a>
+    <a href="https://ibb.co/NNXV7jp"><img src="https://i.ibb.co/T0Zvr8R/logowanie.jpg" alt="logowanie" border="0" width="250" hspace="4">
+    <a href="https://ibb.co/L5s7zfj"><img src="https://i.ibb.co/Hd98DQw/wprowadzanie-dannych.png" alt="wprowadzanie-dannych" border="0" width="250" hspace="4">
+    <a href="https://ibb.co/JKFRyQZ"><img src="https://i.ibb.co/g3FMPVY/ekran-g-owny.png" alt="ekran-g-owny" border="0" width="250" hspace="4">
+    <a href="https://ibb.co/60Byz6J"><img src="https://i.ibb.co/tpXHgyP/edycja.jpg" alt="edycja" border="0" width="250" hspace="4">
+    <a href="https://ibb.co/r65vq1b"><img src="https://i.ibb.co/3NSkVLf/kontakt.png" alt="kontakt" border="0" width="250" hspace="4"></a>
 </p>
 
 ## Code Example/Issues 🔍
